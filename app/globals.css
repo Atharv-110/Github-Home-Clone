@@ -174,7 +174,7 @@ html {
 }
 
 .hero-drone {
-  animation: animate 20s linear infinite;
+  animation: animate 10s linear infinite;
 }
 
 @keyframes animate {
